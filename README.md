@@ -1,4 +1,6 @@
-# ggwave
+# gibber link for jetson
+# this forks is for jetson nano super mode and robot communication interfaces. 
+# We show final version at GTC 2025 in santa clara, US. Stay tuned 
 
 [![Actions Status](https://github.com/ggerganov/ggwave/workflows/CI/badge.svg)](https://github.com/ggerganov/ggwave/actions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
